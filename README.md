@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/kapana1004](https://github.com/kapana1004)
 
 - 📫 How to reach me **g.kapanadze82@gmail.com**
-- ⚡ Fun fact -  **As a regional branch director I left my banking career and started learning programming :)**
+- ⚡ Fun fact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
