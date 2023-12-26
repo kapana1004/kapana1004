@@ -1,4 +1,4 @@
-<p align="left">Hi 👋, I'm George Kapanadze
+<p align="left">Hi 👋, I'm George Kapanadze </p>
 React developer from Georgia
 
  - 👨‍💻 All of my projects are available at [https://github.com/kapana1004](https://github.com/kapana1004) 
