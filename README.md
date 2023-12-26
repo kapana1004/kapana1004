@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm George Kapanadze</h1>
-<h3 align="center">React developer from Georgia</h3>
+<p align="center">Hi 👋, I'm George Kapanadze
+align="center">React developer from Georgia</p>
 
 <h3 align="center"> - 👨‍💻 All of my projects are available at [https://github.com/kapana1004](https://github.com/kapana1004) </h3>
 
