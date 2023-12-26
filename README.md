@@ -31,6 +31,8 @@
 
 <a> 
   <a href="https://github.com/ekaabashidze"><img alt="Eka Abashidze's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ekaabashidze&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ekaabashidze"><img alt="Eka Abashidze's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ekaabashidze&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
+  <a>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapana1004&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  </a>
   <br/>
 </a>
