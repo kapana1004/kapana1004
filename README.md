@@ -23,16 +23,28 @@
   </a>
 </p>
 
-<div align="center"> 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kapana1004&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapana1004&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 
-<a> 
-  <a href="https://github.com/ekaabashidze"><img alt="Eka Abashidze's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ekaabashidze&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
-  <a>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapana1004&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=kapana1004&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats" />
   </a>
-  <br/>
-</a>
+</p>
+
+<h3 align="center">Top Languages</h3>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapana1004&layout=donut&theme=dark" alt="Top Langs" />
+  </a>
+</p>
+
+
+
+
+
