@@ -19,6 +19,6 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapana1004&layout=pie)](https://github.com/kapana1004/github-readme-stats)   ![kapana1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapana1004&show_icons=true&theme=tokyonight)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapana1004&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapana1004&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
 
 
