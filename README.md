@@ -1,5 +1,6 @@
-<p align="left">Hi 👋, I'm George Kapanadze </p>
-React developer from Georgia
+<h3 align="center">Hi 👋, I'm George Kapanadze </h3>
+<h3 align="center">React developer from Georgia </h3>
+
 
  - 👨‍💻 All of my projects are available at [https://github.com/kapana1004](https://github.com/kapana1004) 
  - 📫 How to reach me **g.kapanadze82@gmail.com**
