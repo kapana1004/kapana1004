@@ -1,9 +1,8 @@
 <p align="center">Hi 👋, I'm George Kapanadze
 align="center">React developer from Georgia</p>
 
-<h3 align="center"> - 👨‍💻 All of my projects are available at [https://github.com/kapana1004](https://github.com/kapana1004) </h3>
-
-<h3 align="center"> - 📫 How to reach me **g.kapanadze82@gmail.com** </h3> 
+<p align="center"> - 👨‍💻 All of my projects are available at [https://github.com/kapana1004](https://github.com/kapana1004) 
+ - 📫 How to reach me **g.kapanadze82@gmail.com** </p>
 
 
 <h3 align="center">Connect with me:</h3>
