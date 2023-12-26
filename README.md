@@ -18,4 +18,5 @@
 <h3 align="left">Statistics:</h3>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapana1004&layout=pie)](https://github.com/kapana1004/github-readme-stats)   ![kapana1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapana1004&show_icons=true)
-![kapana1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapana1004&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
